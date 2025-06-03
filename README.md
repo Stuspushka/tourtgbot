@@ -45,17 +45,18 @@
 ## Установка
 
 1. Клонируйте репозиторий:
-   git clone https://github.com/Stuspushka/tourtgbot.git
-   cd tourtgbot
+   - git clone https://github.com/Stuspushka/tourtgbot.git
+   - cd tourtgbot
    
-2. Создайте виртуальное окружение и активируйте его:
-    python -m venv venv
-    source venv/bin/activate  # Для Windows: venv\Scripts\activate
+3. Создайте виртуальное окружение и активируйте его:
+    - python -m venv venv
+    - source venv/bin/activate
+    - Для Windows: venv\Scripts\activate
 
-3. Установите зависимости:
-    pip install -r requirements.txt
+4. Установите зависимости:
+    - pip install -r requirements.txt
 
-4. Настройте переменные окружения в файле .env или в settings.py.
+5. Настройте переменные окружения в файле .env или в settings.py.
    
-5. Запустите бота:
-   python main.py
+6. Запустите бота:
+   - python main.py
